@@ -1,5 +1,5 @@
 # About Me:
-Year 3 Computer Science undergraduate with practical experience in software development and front‑end projects. Skilled in Python, ARM Assembly, and web development technologies. Engaged in Capture the Flag (CTF) competitions and academic coursework to build foundational cybersecurity knowledge. 
+Year 4 Computer Science undergraduate with practical experience in software development and front‑end projects. Skilled in Python, ARM Assembly, and web development technologies. Engaged in Capture the Flag (CTF) competitions and academic coursework to build foundational cybersecurity knowledge. 
 
 
 ## Socials:
